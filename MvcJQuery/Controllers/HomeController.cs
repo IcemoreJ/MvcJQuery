@@ -9,7 +9,7 @@ namespace MvcJQuery.Controllers
 {
     public class HomeController : Controller
     {
-
+        //wqw
         MyFirstDatabaseEntities db = new MyFirstDatabaseEntities();
         public ActionResult Index()
         {
